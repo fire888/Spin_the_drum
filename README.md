@@ -1,4 +1,4 @@
-to start download node_modules and run ### `npm start`
+to start download node_modules and run `npm start`
 
 # Getting Started with Create React App
 
